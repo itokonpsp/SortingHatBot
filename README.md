@@ -1,0 +1,2 @@
+# SortingHatBot
+Discordのチーム分けBot
